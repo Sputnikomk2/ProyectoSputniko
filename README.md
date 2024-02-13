@@ -1,4 +1,4 @@
-# Projecto Sputnikomk2
+# Proyecto Sputniko
 
 
 ## Problemática del cliente
