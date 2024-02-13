@@ -3,7 +3,7 @@
 
 ## Problemática del cliente
 
-**Cliente:** Como dirección de la escuela, observamos una falta de conciencia sobre el cambio climático entre nuestros alumnos de educación primaria. Nuestra meta es motivarlos de manera atractiva durante el recreo para fomentar la concienciación ambiental.
+**Direccion de un centro Escolar de Educacion Primaria:** Como dirección de la escuela, observamos una falta de conciencia sobre el cambio climático entre nuestros alumnos de educación primaria. Nuestra meta es motivarlos de manera atractiva durante el recreo para fomentar la concienciación ambiental.
 
 **Detalles adicionales:**
 - **Contexto educativo:** Somos la dirección de una escuela de educación primaria.
