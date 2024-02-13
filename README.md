@@ -3,7 +3,7 @@
 
 ## Problemática de los clientes
 
-**Direccion del centro Escolar de Educacion Primaria:** Sus objetivos son incentivar el consumo de alimentos frescos y reducir el consumo de plásticos que ensucian el centro.
+**Dirección del centro Escolar de Educacion Primaria:** Sus objetivos son incentivar el consumo de alimentos frescos y reducir el consumo de plásticos que ensucian el centro.
 
 **Propietario de la cafetería del centro:** Su interés es incentivar el consumo de productos frescos en su comercio y dar salida de los alimentos perecederos para reducir el desperdicio.
 
