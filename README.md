@@ -1,18 +1,20 @@
-# Proyecto Sputniko
+# Projecto Sputnikomk2
 
 
-## Problemática del cliente
+## Problemática de los clientes
 
-**Direccion de un centro Escolar de Educacion Primaria:** Como directora de la escuela, he observado una falta de motivación entre nuestros alumnos de educación primaria. Nuestra meta es motivarlos de manera atractiva durante el recreo mediante el uso de la tecnología.
+**Direccion del centro Escolar de Educacion Primaria:** Sus objetivos son incentivar el consumo de alimentos frescos y reducir el consumo de plásticos que ensucian el centro.
 
-## Usuario
-
-- Los alumnos del centro van a ser los usuarios finales de la aplicación y jugando con nuestra APP podrán canjear los puntos por comida en la cafetería del centro. 
-- Para nosotros la protección de datos es importante por lo tanto hemos de destacar que no necesitamos ningun dato de los alumnos ya que trabajarán con los códigos QR ubicados en los carteles. 
+**Propietario de la cafetería del centro:** Su interés es incentivar el consumo de productos frescos en su comercio y dar salida de los alimentos perecederos para reducir el desperdicio.
 
 **Detalles adicionales:**
-- **Contexto educativo:** Somos la dirección de una escuela de educación primaria.
-- **Interacción:** Nos enfocamos en interactuar con los estudiantes durante el recreo.
-- **Motivación deseada:** Buscamos despertar su interés de una manera que sea atractiva, interactiva, divertida y significativa para ellos.
+- **No presenta conflicto de intereses entre Stakeholders:** Los puntos comunes entre ambos stakeholders tienen en común que les interesa reducir los alimentos procesados entre los usuarios.
+- **Permiso del centro:** La dirección del centro nos puede dar la aprobación de poder utilizar las instalaciones pertinentes. También son enlace con los padres de los alumnos.
+- **Recompensa a los alumnos:** Da salida a productos perecederos como recompensa para los usuarios.
 
+## Usuarios
 
+- **Los alumnos del centro:** Van a ser los usuarios finales de la aplicación y jugando con nuestra aplicación, buscamos incentivar entre ellos el consumo de alimentos frescos dentro del centro escolar. También queremos que el centro reduzca la cantidad de suciedad generada por el plástico de ciertos alimentos que los alumnos mayoritariamente compran dentro del instituto. Para nosotros la protección de datos es importante por lo tanto hemos de destacar que no necesitamos ningun dato de los alumnos ya que trabajarán con los códigos QR hubicados en los carteles. 
+
+**Detalles adicionales:**
+- **Disponibilidad tecnológica:** Los alumnos pueden disponen de dispositivos móviles dentro de sus centros de estudio.
