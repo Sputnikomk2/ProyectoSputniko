@@ -1,17 +1,19 @@
 
 
-# Historia de usuario
+#El juego.
 
-**Cómo**: Usuario del sistema
 
-**Quiero**: Visualizar el contenido mediante la lectura del código QR.
+En este juego **tenemos que tener en cuenta** que, debe de ser asequible para alumnos de un colegio de primaria y además.
+En este caso nuestro enfoque estará en los alumnos del colegio, que son alumnos de primaria por lo que el juego debe de ser simple, intuitivo y atractivo para captar su atención.
 
-**Para**: Poder jugar al videojuego que me redirige.
+**Lo que queremos** con este juego es que los alumnos aprendan a reciclar y que además los consciencie de los problemas existentes. Dos niveles serán orientados a hacer un quiz de pregunta/respuestas y los otros dos niveles tendran algún personaje con un papel que será luchar "contra el cambio climático".
 
-**Condiciones**:
+En este juego **se requiere**, que las preguntas sean del material que aparecerá en los carteles ubicados en el colegio que además aparecerá en tu pantalla cuando escanees el QR.
 
-- Que sea mediante sus dispositivos móviles
-- Que la directora del centro nos de permisos para utilizar sus instalaciones.
+Además no serán preguntas demasiado largas, para que sea más atractivo.
 
+En el caso de los juegos con personaje, serán juegos cortos y de una dificultad que se adapte a su edad. 
+
+ 
 
 
