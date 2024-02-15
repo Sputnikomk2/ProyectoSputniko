@@ -66,3 +66,17 @@ Se animará a los docentes y personal del centro educativo a promover el uso de 
 
 Los códigos QR se diseñarán de manera atractiva y se imprimirán en materiales duraderos para garantizar su visibilidad y durabilidad a largo plazo.
 La aplicación se actualizará periódicamente con nuevas funciones y contenido para mantener el interés de los usuarios y fomentar la participación continua en la iniciativa.
+
+# Historia de usuario - Fran
+
+Historia de usuario
+Cómo: Usuario del sistema
+
+Quiero: Visualizar el contenido mediante la lectura del código QR.
+
+Para: Poder jugar al videojuego que me redirige.
+
+Condiciones:
+
+Que sea mediante sus dispositivos móviles
+Que la directora del centro nos de permisos para utilizar sus instalaciones.
