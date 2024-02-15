@@ -1,4 +1,4 @@
-# El juego - Carmen
+# Historia de usuario - Carmen
 
 
 En este juego **tenemos que tener en cuenta** que, debe de ser asequible para alumnos de un colegio de primaria y además.
@@ -31,7 +31,7 @@ En el caso de los juegos con personaje, serán juegos cortos y de una dificultad
 - Los puntos sólo se canjearán en la cafetería de la escuela, a través de un QR.
 
 
-## Historia de Usario - Jose
+# Historia de Usuario - Jose
 
 **APLICACION**
 
