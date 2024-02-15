@@ -1,4 +1,4 @@
-#El juego.
+# El juego.
 
 
 En este juego **tenemos que tener en cuenta** que, debe de ser asequible para alumnos de un colegio de primaria y además.
