@@ -21,5 +21,4 @@ En este nivel hemos definido las partes en las que se va a basar la problemátic
 - **Los alumnos del centro:** Van a ser los usuarios finales de la aplicación y jugando con nuestra aplicación, buscamos incentivar entre ellos el consumo de alimentos frescos dentro del centro escolar. También queremos que el centro reduzca la cantidad de suciedad generada por el plástico de ciertos alimentos que los alumnos mayoritariamente compran dentro del instituto. Para nosotros la protección de datos es importante por lo tanto hemos de destacar que no necesitamos ningun dato de los alumnos ya que trabajarán con los códigos QR hubicados en los carteles. 
 
 **Detalles adicionales:**
-- **Disponibilidad tecnológica:** Los alumnos pueden disponen de dispositivos móviles dentro de sus centros de estudio.
->>>>>>> main
+- **Disponibilidad tecnológica:** Los alumnos pueden disponer de dispositivos móviles dentro de sus centros de estudio.
