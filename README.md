@@ -1,6 +1,6 @@
 # HISTORIA DE USUARIO
 En este nivel hemos definido las partes en las que se va a basar la problemática del proyecto, analizando así por menorizadas las historias de usuario que encontramos, en este caso solo existen dos usuarios, por un lado Nuria, la directora del colegio y por otro lado la cafetería que será la que distribuya la comida que ganaran los alumnos a través del juego, para visitar el fichero donde aportamos información sobre las historias de usuario [enlace a historias_de_usuario](https://github.com/Sputnikomk2/ProyectoSputniko/blob/level1/doc/historias_de_usuario.md).
-![sputniko|100](/doc/img/sputniko.jpeg)
+![](/doc/img/sputniko.jpeg)
 
 # Proyecto Sputnikomk2
 
