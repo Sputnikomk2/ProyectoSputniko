@@ -1,3 +1,6 @@
+En este nivel hemos definido las partes en las que se va a basar la problemática del proyecto, analizando así por menorizadas las historias de usuario que encontramos, en este caso solo existen dos usuarios, por un lado Nuria, la directora del colegio y por otro lado la cafetería que será la que distribuya la comida que ganaran los alumnos a través del juego, para visitar el fichero donde aportamos información sobre las historias de usuario [enlace a historias_de_usuario](https://github.com/Sputnikomk2/ProyectoSputniko/blob/level1/doc/historias_de_usuario.md).
+![](/doc/img/sputniko.jpeg)
+
 # Proyecto Sputnikomk2
 
 
@@ -17,4 +20,4 @@
 - **Los alumnos del centro:** Van a ser los usuarios finales de la aplicación y jugando con nuestra aplicación, buscamos incentivar entre ellos el consumo de alimentos frescos dentro del centro escolar. También queremos que el centro reduzca la cantidad de suciedad generada por el plástico de ciertos alimentos que los alumnos mayoritariamente compran dentro del instituto. Para nosotros la protección de datos es importante por lo tanto hemos de destacar que no necesitamos ningun dato de los alumnos ya que trabajarán con los códigos QR hubicados en los carteles. 
 
 **Detalles adicionales:**
-- **Disponibilidad tecnológica:** Los alumnos pueden disponen de dispositivos móviles dentro de sus centros de estudio.
+- **Disponibilidad tecnológica:** Los alumnos pueden disponer de dispositivos móviles dentro de sus centros de estudio.
