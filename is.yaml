@@ -3,3 +3,4 @@ tools:
   - visual_studio_code
   - jupyter_notebook
 
+code_file: code.ipynb
