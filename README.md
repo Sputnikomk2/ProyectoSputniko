@@ -1,4 +1,4 @@
-https://github.com/Sputnikomk2/ProyectoSputniko/blob/level1/doc/historias_de_usuario.md).
+
 ![](/doc/img/sputniko.jpeg)
 
 # Proyecto Sputnikomk2
