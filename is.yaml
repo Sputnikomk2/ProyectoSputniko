@@ -1,1 +1,5 @@
 language: python
+tools: 
+  - visual_studio_code
+  - jupyter_notebook
+
