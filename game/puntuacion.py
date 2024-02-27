@@ -1,3 +1,5 @@
+clase puntuacion
+
 def generar_premio(puntos):
 # end: ed8c6549bwf9
     if puntos == 500:
