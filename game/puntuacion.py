@@ -1,7 +1,7 @@
 clase puntuacion
 
 def generar_premio(puntos):
-# end: ed8c6549bwf9
+
     if puntos == 500:
         return "1 manzana"
     elif puntos == 2500:
