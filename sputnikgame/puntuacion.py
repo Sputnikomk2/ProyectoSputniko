@@ -1,7 +1,4 @@
-clase puntuacion
-
 def generar_premio(puntos):
-
     if puntos == 500:
         return "1 manzana"
     elif puntos == 2500:
@@ -10,6 +7,7 @@ def generar_premio(puntos):
         return "1 manzana, 1 colacao, 1 tostada"
     else:
         return "puntos no válidos"
+
 
 puntos = 5000
 premio = generar_premio(puntos)
