@@ -1,26 +1,23 @@
-class Alumno:
-    def __init__(self, id):
-        self.id = id
+# Entidades
 
-class Pregunta:
-    def __init__(self, dificultad, categoria, enunciado, respuesta_correcta):
-        self.dificultad = dificultad
-        self.categoria = categoria
-        self.enunciado = enunciado
-        self.respuesta_correcta = respuesta_correcta
+# Alumno
+# - Id (int): Identificador único del alumno.
 
-class Respuesta:
-    def __init__(self, enunciado, es_correcta):
-        self.enunciado = enunciado
-        self.es_correcta = es_correcta
+# Pregunta
+# - Id (int): Identificador único de la pregunta.
+# - Dificultad (str): Nivel de dificultad de la pregunta (fácil, medio, difícil).
+# - Categoría (str): Categoría a la que pertenece la pregunta (matemáticas, historia, etc.).
+# - Enunciado (str): Texto que describe la pregunta.
+# - Respuesta_correcta (str): Respuesta correcta a la pregunta.
 
-class Partida:
-    def __init__(self, duracion, puntuacion, preguntas_respondidas):
-        self.duracion = duracion
-        self.puntuacion = puntuacion
-        self.preguntas_respondidas = preguntas_respondidas
+# Partida
+# - Id (int): Identificador único de la partida.
+# - Alumno_id (int): Identificador del alumno que juega la partida.
+# - Duración (int): Duración de la partida en segundos.
+# - Puntuación (int): Puntuación obtenida por el alumno en la partida.
+# - Preguntas_respondidas (int): Número de preguntas respondidas por el alumno en la partida.
 
-class Premio:
-    def __init__(self, descripcion, puntos_necesarios):
-        self.descripcion = descripcion
-        self.puntos_necesarios = puntos_necesarios
+# Premio
+# - Id (int): Identificador único del premio.
+# - Descripción (str): Descripción del premio.
+# - Puntos_necesarios (int): Número de puntos necesarios para obtener el premio.
