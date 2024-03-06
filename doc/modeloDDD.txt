@@ -1,0 +1,7 @@
+Entidad | Atributos
+------- | --------
+Alumno  | Id
+Pregunta | Dificultad, categoría, enunciado, respuesta correcta
+Respuesta | Enunciado, es_correcta
+Partida  | Duración, puntuación, preguntas_respondidas
+Premio   | Descripción, puntos_necesarios
