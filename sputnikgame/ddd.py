@@ -3,3 +3,7 @@ class Juego:
         self.id = idalumno
         self.objetivos = objetivos if objetivos else []
         self.puntuacion = puntuacion
+
+
+
+
