@@ -1,4 +1,4 @@
-class Puntuacion:
+class Puntos:
 
     def generar_premio(puntos):
         if puntos == 500:
@@ -11,5 +11,5 @@ class Puntuacion:
             return "puntos no válidos"
 
 puntos = 5000
-premio = Puntuacion.generar_premio(puntos)
+premio = Puntos.generar_premio(puntos)
 print(premio)
