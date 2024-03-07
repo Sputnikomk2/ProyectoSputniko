@@ -1,3 +1,4 @@
 class Partida: 
-    def __init__(self, partida=None):
-        self.partida = partida
+    def __init__(self, estudiante=None, juego=None):
+        self.estudiante= estudiante
+        self.juego= juego
